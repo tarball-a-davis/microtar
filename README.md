@@ -1,10 +1,10 @@
 # microtar
-A lightweight tar library written in ANSI C
+A lightweight tar library written in C
 
 
 ## Basic Usage
 The library consists of `microtar.c` and `microtar.h`. These two files can be
-dropped into an existing project and compiled along with it.
+dropped into an existing project and compiled along with it, or this repository can be included into a project via cmake.
 
 
 #### Reading
